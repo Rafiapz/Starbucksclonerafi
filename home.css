@@ -1,0 +1,646 @@
+
+
+
+
+#header-logo{
+
+    width: 40px;
+    height: 40px;
+    padding-left: 124px;
+    padding-top: 9px;
+
+}
+
+
+.hcls{
+
+
+width: 100%;
+height: 90px;
+background-color: white;
+
+
+
+}
+.sublgo{
+
+    width: 190px;
+    height: 90px;
+    background-color: white;
+
+
+}
+#logotwo{
+
+    width: 40px;
+    height: 40px;
+    margin-left: 130px;
+    margin-top: 17px;
+
+
+}
+
+.lgc{
+
+display: flex;
+position: fixed;
+background-color: white;
+z-index: 5;
+width: 100%;
+
+
+}
+.menn{
+
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-top: 28px;
+    margin-left: 50px;
+    
+
+}
+.look{
+    text-decoration: none;
+    font-family: SoDoSans_Bold,Helvetica,sans-serif!important;
+    color: #0b0b0b;
+}
+.srchs{
+
+    width: 775px;
+    height: 90px;
+    background-color: white;
+    display: flex;
+    
+    
+
+}
+.box{
+
+    width: 230px;
+    height: 40px;
+    background-color: white;
+    margin-left: 370px;
+    margin-top: 30px;
+    border-radius: 18px;
+    display: flex;
+    border: solid black 1px;
+
+}
+.icnsrch{
+
+    width: 30px;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 15px;
+    border: none;
+
+
+}
+.inputone{
+
+    width: 170px;
+    height: 30px;
+    margin-top: 2px;
+    border: none;
+   
+
+}
+.rnd{
+
+   width: 40px;
+   height: 40px;
+   background-color: white;
+   margin-left: 60px;
+   margin-top: 30px;
+   border-radius: 50%;
+  
+
+
+}
+.thal{
+
+    width: 35px;
+    height: 35px;
+    margin-top: 2px;
+    margin-left: 2px;
+    border-radius: 50%;
+}
+.rvh{
+
+    width: 100%;
+    height: 85px;
+    
+    
+}
+
+.rewards{
+
+    width: 100%;
+    height: 82px;
+    background-color: #1e3932;
+    
+}
+body{
+    margin: 0;
+    overflow-x:hidden;
+    padding: 0;
+}
+.container{
+
+    width: 100%;
+    height: 2200px;
+    font-family: SoDoSans_Bold,Helvetica,sans-serif!important;
+}
+#rewid{
+
+    font-size: medium;
+    
+    position: relative;
+    left: 9%;
+    top: 29%;
+    color: aliceblue;
+    font-size: 18px;
+    font-weight: 300;
+    
+}
+.hand{
+
+    position: relative 50px;
+    height: 50px;
+}
+
+#hadncraft{
+
+    width: 100%;
+    height: 1400px;
+  
+    position: relative;
+    left: 9%;
+    top: 3px;
+    color: #1e3932;
+    font-family: SoDoSans_Bold,Helvetica,sans-serif!important;
+
+}
+#know{
+
+position: relative;
+left: 80%;
+color: aliceblue;
+
+}
+.items{
+
+    position: relative;
+    top: 2%;
+    width: 100%;
+    height: 136px;
+    background-color: white;
+    display: flex;
+    padding-left: 110px;
+    padding-top: 5px;
+    gap: 133px;
+
+}
+.imgs{
+
+    width: 108px;
+    height: 108px;
+    border-radius: 50%;
+    cursor: pointer;
+
+}
+.imgs:hover{
+
+    
+    border: solid #00754a 1px;
+}
+.green{
+
+    width: 100%;
+    height: 350px;
+    background-color: white;
+    display: flex;
+    padding-left: 120px;
+    padding-top: 40px;
+    
+   
+    
+}
+.blue{
+
+width: 86%;
+height: 260px;
+background-color: #fd7e14;
+display: flex;
+border-radius: 15px;
+cursor: pointer;
+
+
+
+
+
+}
+.imgpizza{
+    padding-left: 1px;
+    width: 15%;
+    height: 260px;
+    background-color: #fd7e14;
+    display: flex;
+    border-radius: 15px;
+    
+}
+.pizza{
+
+    width: 104px;
+    height: 190px;
+    align-items: flex-end;
+    padding-top: 40px;
+
+
+}
+.red{
+width: 800px;
+height: 260px;
+background-color: #fd7e14;
+
+}
+.write{
+
+    font-size: medium;
+    color: #0b0b0b;
+}
+.bigwrite{
+
+    color: #090909;
+    
+}
+.afterred{
+
+    background-color: #fd7e14;;
+    width: 260px;
+    height: 260px;
+    display: flex;
+   
+}
+.button{
+
+    width: 180px;
+    height: 47px;
+    margin-top: 180px;
+    margin-left: 35px;
+    background-color: #00754a;
+    border-radius: 25px;
+
+}
+.ord{
+    
+    width: 180px;
+    height: 50px;
+    background-color: #00754a;
+    color: white;
+    border-radius: 25px;
+    cursor: pointer;
+    border: none;
+      
+}
+.odd{
+    margin-top: 15px;
+    font-weight: 300;
+    font-size: medium;
+}
+
+.arrow{
+
+    width: 40px;
+    height: 40px;
+    background-color: aqua;
+    margin-top: 125px;
+    margin-left: -20px;
+    border-radius: 50%;
+}
+.icarrow{
+
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+
+
+
+.barista{
+
+    width: 100%;
+    height: 70px;
+    background-color: #e9ecef;
+    display: flex;
+
+}
+.brwrite{
+
+    margin-left: 125px;
+    margin-top: 30px;
+    font-family: SoDoSans_Bold,Helvetica,sans-serif!important;
+}
+
+.addmain{
+
+    width: 100%;
+    height: 200px;
+    background-color: #e9ecef  ;
+    display: flex;
+    padding-left: 130px;
+    padding-top: 30px;
+    gap: 40px;
+    
+}
+.col{
+
+    background-color: white;
+    width: 400px;
+    height: 150px;
+    border-radius: 18px;
+    display: flex;
+
+    
+    
+}
+.imm{
+
+    width: 110px;
+    height: 130px;
+    background-color: white;
+    display: flex table-column;
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 18px;
+}
+.unrps{
+    color: #000;
+    font-size: 14px;
+    font-weight: 600;
+}
+.hzl{
+
+    width: 110px;
+    height: 130px;
+
+}
+.smlwt{
+
+    font-size: 10px;
+    color: #6c757d!important;
+}
+
+.fd{
+
+    width: 80px;
+    height: 80px;
+    border-radius: 25px;
+}
+.rup{
+
+
+  
+
+    
+}
+.wra{
+
+    display: flex;
+    align-items: flex-start;
+    padding-left: 10px;
+    padding-top: 20px;
+
+}
+.veg{
+
+    width: 20px;
+    height: 20px;
+    
+}
+.name{
+
+    margin-top: 19px;
+    margin-left: 5px;
+    font-family: SoDoSans_Semibold,Helvetica,sans-serif!important;
+}
+.itemad{
+
+    width: 120px;
+    height: 40px;
+    background-color: #00754a;;
+    margin-top: 80px;
+    border-radius: 50px;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.nd{
+
+    margin-left: 17px;
+    color: white;
+
+
+}
+.line{
+
+    width: 100%;
+    height: 45px;
+    background-color: white;
+}
+.learn{
+
+    width: 100%;
+    height: 30px;
+    background-color:#e9ecef;
+    display: flex;
+    padding-left: 120px;
+    gap: 800px;
+    font-family: SoDoSans_Bold,Helvetica,sans-serif!important;
+    color: #1e3932;
+
+}
+.biggd{
+
+    width: 100%;
+    height: 400px;
+    background-color: #e9ecef;
+    display: flex;
+    padding-left: 100px;
+    padding-top: 80px;
+}
+.photodiv{
+
+    width: 1250px;
+    height: 340px;
+    background-color: #e9ecef;
+    border-radius: 18px;
+
+
+}
+.art{
+
+    width: 1250px;
+    height: 340px;
+    border-radius: 18px;
+
+}
+.linetwo{
+
+    width: 100%;
+    height: 90px;
+    background-color: white;
+
+}
+.last{
+
+    width: 100%;
+    height: 340px;
+    background-color: #1e3932;
+    display: flex;
+
+
+}
+.lone{
+
+    width: 310px;
+    height: 338px;
+    background-color: #1e3932;
+}
+#flogo{
+
+    width: 62px;
+    height: 62px;
+    margin-top: 50px;
+    margin-left: 120px;
+}
+.ltwo{
+
+    width: 230px;
+    height: 298px;
+    background-color: #1e3932;;
+    padding-top: 40px;
+    
+    
+
+}
+.listtwoul{
+
+    list-style: none    ;
+    line-height: 1.5;
+    font-weight: 400;
+    font-size: .875em;
+    
+    
+    
+}
+.lthree{
+    
+    width: 230px;
+    height: 298px;
+    background-color: #1e3932;;
+    padding-top: 40px;
+
+}
+.lfour{
+
+    width: 230px;
+    height: 298px;
+    background-color: #1e3932;
+    padding-top: 40px;
+}
+.lfive{
+
+    width: 232px;
+    height: 298px;
+    background-color: #1e3932;
+    padding-top: 40px;
+
+
+}
+.lsix{
+
+    width: 233px;
+    height: 293px;
+    background-color: #1e3932;
+    display: flex;
+    flex-direction: column;
+    padding-top: 45px;
+
+
+}
+.lsm{
+
+    font-family: SoDoSans_Semibold,Helvetica,sans-serif;
+    font-size: 1.125em;
+    color: #fff;
+
+}
+.ls{
+
+    color: white;
+}
+.social{
+
+    width: 150px;
+    height: 50px;
+
+}
+.app{
+
+    width: 194px;
+    height: 62px;
+    border-radius: 18px;
+
+}
+.finishline{
+
+    width: 100%;
+    height: 110px;
+    display: flex;
+}
+.fone{
+
+    width: 150px;
+    height: 110px;
+    background-color: #1e3932;
+}
+.finish{
+
+    width: 100%;
+    height: 100px;
+    background-color: #1e3932;
+    border-top: 1px solid white;
+    display: flex;
+    padding-top: 10px;
+    gap: 10px;
+}
+.ftwo{
+
+    width: 150px;
+    height: 110px;
+    background-color: #1e3932;
+
+}
+.pf{
+    color: #fff;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
